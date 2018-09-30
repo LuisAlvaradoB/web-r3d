@@ -1,13 +1,13 @@
 /* Paleta de colores y modales */
 :root {
-    --color-first   : #2d4059;
-    --color-second  : #ea5455;
-    --color-third   : #f07b3f;
+    --color-first   : #118df0;
+    --color-second  : #0e2f56;
+    --color-third   : #ff304f;
     --color-accent  : #ffd460;
     --color-dark    : #282D31;
     --color-border  : #DFE0E0;
     --color-text    : #53575A;
-    --color-bg      : #FAFDFF;
+    --color-bg      : #eeeeee;
     --z-normal      : 1;
     --z-tooltip     : 10;
     --z-fixed       : 100;
@@ -52,7 +52,7 @@ body {
 /* Banner */
 .main-banner {
     /* background: var(--color-first); */
-    background: #2d4059;
+    background: var(--color-first);
     padding: 4rem 0 5rem;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 94%);
     position: relative;
@@ -64,11 +64,20 @@ body {
     }
 }
 
+/* Topbar  */
+
+.topbar--dark {
+    background: var(--color-second);
+    color: #fff;
+}
+
 .main-center {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
+/* Banner img central */
 
 .main-banner-img {
     position: absolute;
