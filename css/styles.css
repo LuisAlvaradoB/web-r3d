@@ -100,3 +100,23 @@ body {
 .center {
     text-align: center;
 }
+
+/* Main features */
+
+.main-features {
+    margin: 2rem;
+}
+
+.logo-feature {
+    height: 6rem;
+}
+
+/* main-footer */
+
+.main-footer {
+    background: var(--color-third);
+    color: #fff;
+    margin-top: 4rem;
+    padding: 2rem 0;
+
+}
