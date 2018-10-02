@@ -104,7 +104,8 @@ body {
 /* Main features */
 
 .main-features {
-    margin: 2rem;
+    margin-top: 2rem;
+    
 }
 
 .logo-feature {
