@@ -1,18 +1,36 @@
+.section-title {
+    color: var(--color-second);
+}
+/* Titulo central Rojo 3DR */
 .main-about {
     margin-top: 3rem;
 }
 
+/* Contenedor "Sobre nosotros" */
 .main-history {
     margin-top: 3rem;
 }
 
+/* img oficina */
 .img-oficina {
     border-radius: 20px;
-    width: 500px;
-    height: 300px;
+    /* width: 500px;
+    height: 300px; */
 }
 
+/* Texto "Sobre nosotros" */
 .text-about {
-    margin: 2rem;
+    margin: 1rem;
     text-align: justify;
+    line-height: 30px;
+}
+
+/* Contenedor nuestros clientes */
+.main-customers {
+    margin-top: 3rem;
+}
+
+.logo-customers {
+    border: 2px solid var(--color-first);
+    border-radius: 20px;
 }
