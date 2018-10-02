@@ -108,8 +108,9 @@ body {
     
 }
 
-.seccion-title {
+.section-title {
     margin-top: 2rem;
+    color: var(--color-second);
 }
 
 .logo-feature {
