@@ -33,4 +33,5 @@
 .logo-customers {
     border: 2px solid var(--color-first);
     border-radius: 20px;
+    margin-top: 2rem;
 }
