@@ -1,4 +1,28 @@
 .main-caracteristicas-parrafo {
     text-align: justify;
-    line-height: 20px;
+    line-height: 25px;
+}
+
+.btn-radius {
+    background: var(--color-third);
+    color: #fff;
+}
+
+.btn-radius:hover {
+    background: var(--color-first);
+    color: #fff;
+}
+
+.main-funcionamiento-lampara {
+    margin-top: 4rem;
+}
+
+.text-funcionamiento {
+    line-height: 25px;
+    text-align: justify;
+}
+
+.main-icon-ventajas {
+    width: 50px;
+    height: 50px;
 }
