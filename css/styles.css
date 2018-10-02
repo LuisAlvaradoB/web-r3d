@@ -108,6 +108,10 @@ body {
     
 }
 
+.seccion-title {
+    margin-top: 2rem;
+}
+
 .logo-feature {
     height: 6rem;
 }
