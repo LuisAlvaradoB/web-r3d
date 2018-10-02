@@ -17,7 +17,7 @@
     margin-top: 4rem;
 }
 
-.text-funcionamiento {
+.text-parrafo {
     line-height: 25px;
     text-align: justify;
 }
@@ -25,4 +25,14 @@
 .main-icon-ventajas {
     width: 50px;
     height: 50px;
+}
+
+.main-icon {
+    margin-top: 30px;
+}
+
+.text-parrafo-ventajas{
+    line-height: 30px;
+    text-align: justify;
+    margin-top: 50px;
 }
