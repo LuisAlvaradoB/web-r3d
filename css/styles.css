@@ -123,5 +123,9 @@ body {
     background: var(--color-third);
     color: #fff;
     margin-top: 4rem;
-    padding: 2rem 0;
+    padding: 1rem ;
+}
+
+#reloj {
+    font-size: 20px;
 }
