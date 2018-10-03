@@ -1,0 +1,14 @@
+.main-description-img {
+    height: 200px;
+    weight: 400px;
+    border-radius: 8px;
+    border: 2px solid var(--color-first);
+}
+
+.main-description-casos {
+    margin-top: 2rem;
+}
+
+.text-description-img {
+    line-height: 25px;
+}
