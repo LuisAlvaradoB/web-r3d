@@ -1,0 +1,64 @@
+.primer-color {
+    background-color: #118df0;
+    height: 200px;
+    width: 100%;
+}
+
+.segundo-color {
+    background-color: #0e2f56;
+    height: 200px;
+    width: 100%;
+}
+
+.tercer-color {
+    background-color: #ff304f;
+    height: 200px;
+    width: 100%;
+}
+
+.cuarto-color {
+    background-color: #ececda;
+    height: 200px;
+    width: 100%;
+}
+
+.text-color {
+    background-color: #53575a;
+    height: 200px;
+    width: 100%;
+}
+
+.button {
+    background: #118df0;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.secondary-button {
+    background: #0e2f56;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.alert-button {
+    background: #ff304f;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.cta-button {
+    background: #1eb66a;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.dark-button {
+    background: #53575a;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+}
